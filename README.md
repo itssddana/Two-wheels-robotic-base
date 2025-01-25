@@ -3,11 +3,11 @@ https://cad.onshape.com/documents/a1ad315beb531d37da69763d/w/64ba64b9153cf80553d
 
 ### Overview
 This project involves designing a lightweight two-wheel robot base using provided components. The robot base is optimized for minimal weight and compact dimensions while maintaining functionality. The base and components were designed to adhere to the following constraints:
-Weight: 13 grams (including the base and all components).
+Weight: 12.5 grams (including the base and all components).
 Dimensions:
-Width: 120 mm
+Width: 110 mm
 Length: 100 mm
-Height: 40 mm
+Height: 38 mm
 
 ### Components
 Wheel
